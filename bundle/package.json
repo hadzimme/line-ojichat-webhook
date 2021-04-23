@@ -1,0 +1,15 @@
+{
+  "name": "line-ojichat-webhook-bundle",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Classmethod, Inc.",
+  "license": "ISC",
+  "dependencies": {
+    "@aws-sdk/client-lambda": "^3.13.0",
+    "@line/bot-sdk": "^7.2.0"
+  }
+}
